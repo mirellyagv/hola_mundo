@@ -4,7 +4,6 @@
 	<title>Hola mundo</title>
 </head>
 <body>
-<<<<<<< HEAD
 
 <h5>HOLA MUNDO USANDO REPOSITORIOS</h5>
 
@@ -29,8 +28,6 @@ ctx.strokeText("Hola Mundo Mundial!! n.n",10,50);
 </script>
 
 
-=======
-	<h5>HOLA MUNDO USANDO REPOSITORIOS</h5>
->>>>>>> parent of 2c09b6f... Update index.php
+
 </body>
 </html>
